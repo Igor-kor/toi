@@ -10,16 +10,24 @@ namespace toi
     {
         static void Main(string[] args)
         {
+            f3_8();
             //f4_1(2);
             //f4_2(2);
             //f4_4(256);
             //Console.Write(f4_3(240,3));
             //f5_4();
-            f5_5();
+            //f5_5();
             Console.WriteLine();
             Console.ReadKey();
 
         }
+
+        static void f3_8()
+        {
+            Console.WriteLine("минимальное значение ulong = {0}, максимальное значение ulong = {1}", ulong.MinValue, ulong.MaxValue);
+            Console.WriteLine("минимальное значение uint = {0}, максимальное значение uint = {1}", uint.MinValue, uint.MaxValue);
+        }
+    
 
         static void f4_1(byte x)
         {

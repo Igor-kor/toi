@@ -4,3 +4,9 @@ C:\Users\игорь\source\repos\toi\bin\Debug\toi.pdb
 C:\Users\игорь\source\repos\toi\obj\Debug\toi.csprojAssemblyReference.cache
 C:\Users\игорь\source\repos\toi\obj\Debug\toi.exe
 C:\Users\игорь\source\repos\toi\obj\Debug\toi.pdb
+G:\Desktop\учеба\toi\bin\Debug\toi.exe.config
+G:\Desktop\учеба\toi\bin\Debug\toi.exe
+G:\Desktop\учеба\toi\bin\Debug\toi.pdb
+G:\Desktop\учеба\toi\obj\Debug\toi.csprojAssemblyReference.cache
+G:\Desktop\учеба\toi\obj\Debug\toi.exe
+G:\Desktop\учеба\toi\obj\Debug\toi.pdb
